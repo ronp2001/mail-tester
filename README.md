@@ -4,14 +4,14 @@
 A simple python email sender.
 
 this project was made to assist the research part of the IPSENHO course on HSLeiden
-and has been made public for documentation purpouses
+and has been made public for documentation purposes.
 
 
 ## Disclaimer
 
 This project should not be used to spam mails to people.
 
-it's sole purpouse is helping test mail deliverability when running a custom mail server (like [Docker mailserver](https://github.com/docker-mailserver/docker-mailserver))
+it's sole purpose is helping test mail deliverability when running a custom mail server (like [Docker mailserver](https://github.com/docker-mailserver/docker-mailserver)).
 
 
 ## Usage/Examples
@@ -31,7 +31,7 @@ and set the variables.
 
 (if you're running this on windows make sure [Docker desktop](https://www.docker.com/products/docker-desktop/) is installed and running )
 
-afterwards run.
+afterwards run:
 
 ```bash
   docker compose up
