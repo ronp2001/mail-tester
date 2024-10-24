@@ -1,0 +1,5 @@
+services:
+  email-sender:
+    build: .
+    env_file:
+      - .env
