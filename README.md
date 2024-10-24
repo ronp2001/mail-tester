@@ -3,7 +3,7 @@
 
 A simple python email sender.
 
-this project was made to assist the research part of the IPSENHO course on HSLeiden
+This project was made to assist the research part of the IPSENHO course on HSLeiden
 and has been made public for documentation purposes.
 
 
@@ -11,7 +11,7 @@ and has been made public for documentation purposes.
 
 This project should not be used to spam mails to people.
 
-it's sole purpose is helping test mail deliverability when running a custom mail server (like [Docker mailserver](https://github.com/docker-mailserver/docker-mailserver)).
+It's sole purpose is helping test mail deliverability when running a custom mail server (like [Docker mailserver](https://github.com/docker-mailserver/docker-mailserver)).
 
 
 ## Usage/Examples
@@ -31,11 +31,11 @@ and set the variables.
 
 (if you're running this on windows make sure [Docker desktop](https://www.docker.com/products/docker-desktop/) is installed and running )
 
-afterwards run:
+Afterwards run:
 
 ```bash
   docker compose up
 ```
 
-congratulations the project should now be up and running.
+Congratulations, the project should now be up and running.
 
